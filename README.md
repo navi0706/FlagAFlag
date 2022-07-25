@@ -26,7 +26,7 @@ accuarcy on unseen data
 
 
 
-![alt text](https://github.com/navi0706/MovieDatabase/blob/master//classified_image.png?raw=true)
+![alt text](https://github.com/navi0706/FlagAFlag/blob/main/classsified_image.png?raw=true)
 
 
 
